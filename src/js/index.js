@@ -44,32 +44,11 @@ window.addEventListener('scroll', resetNavLinksOnScroll);
 document.addEventListener("DOMContentLoaded", function () {
     const sprints = [
         //{
-        //    name: "1. Šprint - Oreo",
+        //    name: "1. Šprint - <CODENAME>",
         //    role: "member",
-        //    timestamp: "10.10.2024 - 24.10.2024",
-        //    image: "./assets/img/sprints/oreo.jpg",
-        //    description: "V prvom šprinte sme sa zamerali na oboznámenie sa s kódom, ktorý sme prevzali od minuloročného tímu a jeho rozbehanie na vlastných strojoch. Následne sme sa venovali tvorbe tímovej stránky a jej nasadenie na VM. Spolu s tým boli vyvtorené github workflows na automatické nasadzovanie najnošej verzie webu na VM.",
-        //},
-        //{
-        //    name: "2. Šprint - CODENAME",
-        //    role: "member",
-        //    timestamp: "24.10.2024 - 7.11.2024",
-        //    image: "./assets/img/team/lang.jpeg",
-        //    description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus",
-        //},
-        //{
-        //    name: "3. Šprint - CODENAME",
-        //    role: "member",
-        //    timestamp: "7.11.2024 - 21.11.2024",
-        //    image: "./assets/img/team/lang.jpeg",
-        //    description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus",
-        //},
-        //{
-        //    name: "4. Šprint - CODENAME",
-        //    role: "member",
-        //    timestamp: "21.11.2024 - 5.12.2024",
-        //    image: "./assets/img/team/lang.jpeg",
-        //    description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus",
+        //    timestamp: "DD.MM.YYYY - DD.MM.YYYY",
+        //    image: "./assets/img/sprints/<image>",
+        //    description: "Lorem ipsum",
         //},
         // Add more members as needed...
     ];
