@@ -28,5 +28,3 @@ yarn-error.log*
 # Environment files (if needed in future)
 .env
 .env.local
-*.md
-!README.md
