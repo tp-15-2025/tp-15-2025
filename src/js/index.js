@@ -91,6 +91,30 @@ const pdfData = {
        title: "Zápisnica 23.10.2025",
        link: "./src/docs/Zapisnica_2025_10_23.pdf"
       },
+      {
+       title: "Zápisnica 27.10.2025",
+       link: "./src/docs/Zapisnica_2025_10_27.pdf"
+      },
+      {
+       title: "Zápisnica 30.10.2025",
+       link: "./src/docs/Zapisnica_2025_10_30.pdf"
+      },
+      {
+       title: "Zápisnica 03.11.2025",
+       link: "./src/docs/Zapisnica_2025_11_03.pdf"
+      },
+      {
+       title: "Zápisnica 06.11.2025",
+       link: "./src/docs/Zapisnica_2025_11_06.pdf"
+      },
+      {
+       title: "Zápisnica 10.11.2025",
+       link: "./src/docs/Zapisnica_2025_11_10.pdf"
+      },
+      {
+       title: "Zápisnica 13.11.2025",
+       link: "./src/docs/Zapisnica_2025_11_13.pdf"
+      },
     ],
     "Retrospektívy": [
       //{
