@@ -127,6 +127,18 @@ const pdfData = {
        title: "Zápisnica 01.12.2025",
        link: "./src/docs/Zapisnica_2025_12_01.pdf"
       },
+      {
+       title: "Zápisnica 08.12.2025",
+       link: "./src/docs/Zapisnica_2025_12_08.pdf"
+      },
+      {
+       title: "Zápisnica 11.12.2025",
+       link: "./src/docs/Zapisnica_2025_12_11.pdf"
+      },
+      {
+       title: "Zápisnica 15.12.2025",
+       link: "./src/docs/Zapisnica_2025_12_15.pdf"
+      },
     ],
     "Retrospektívy": [
       //{
